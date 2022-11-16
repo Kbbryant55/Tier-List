@@ -4,7 +4,7 @@
 ## Docker
 Prerequisites:
 
-1. Must have Docker[https://www.docker.com/get-started/] installed on your computer 
+1. Must have [Docker](https://www.docker.com/get-started/) installed on your computer 
 2. `docker build . -t dockerized-tier-list`
 3. `docker run -p 3000:3000 dockerized-tier-list`
 
