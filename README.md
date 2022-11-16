@@ -15,3 +15,8 @@ Prerequisites:
 2. [Install](https://classic.yarnpkg.com/en/docs/install/) `yarn`.  
 3. `yarn install`
 3. `yarn start`  
+
+
+## Values
+
+If you want to change the values such as change the tier names or add more tiles, then change the dummy data in app.tsx
