@@ -1,6 +1,6 @@
 ## Summary
 
-This a video game tier list of that you can drag and drop to rank.  This project uses TypeScript and Tailwind.
+This is a video game tier list that you can drag and drop to rank.  This project uses TypeScript and Tailwind.
 
 ## How to Run
 
